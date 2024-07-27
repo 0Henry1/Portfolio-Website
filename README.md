@@ -1,2 +1,1 @@
-# Portfolio-Website
- Portfolio website showcasing the different projects I have made
+Portfolio website showcasing the different projects I have made
